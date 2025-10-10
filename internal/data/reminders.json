@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "message": "Drink a water",
+    "interval": 3600000000000,
+    "active": true
+  },
+  {
+    "id": 2,
+    "message": "Take a break - Streach a little bit",
+    "interval": 2700000000000,
+    "active": true
+  }
+]
