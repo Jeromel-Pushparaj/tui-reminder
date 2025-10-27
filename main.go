@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/Jeromel-Pushparaj/tui-reminder/internal/reminder"
-)
+import "github.com/Jeromel-Pushparaj/tui-reminder/internal/reminder"
 
 func main() {
 	reminders, _ := reminder.LoadReminders()
